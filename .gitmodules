@@ -1,0 +1,3 @@
+[submodule "honours-thesis"]
+	path = honours-thesis
+	url = git@github.com:alexcu/honours-thesis.git
