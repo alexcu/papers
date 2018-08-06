@@ -4,3 +4,6 @@
 [submodule "api-doc-paper"]
 	path = api-doc-paper
 	url = git@github.com:alexcu/api-doc-paper.git
+[submodule "phd-thesis"]
+	path = phd-thesis
+	url = git@github.com:alexcu/phd-thesis.git
