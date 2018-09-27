@@ -1,9 +1,10 @@
 [submodule "honours-thesis"]
 	path = honours-thesis
 	url = git@github.com:alexcu/honours-thesis.git
-[submodule "api-doc-paper"]
-	path = api-doc-paper
-	url = git@github.com:alexcu/api-doc-paper.git
 [submodule "phd-thesis"]
 	path = phd-thesis
 	url = git@github.com:alexcu/phd-thesis.git
+
+[submodule "ml-api-inconsistencies"]
+	path = ml-api-inconsistencies
+	url = git@github.com:alexcu/ml-api-inconsistencies
