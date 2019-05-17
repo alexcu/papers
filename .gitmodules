@@ -11,3 +11,9 @@
 [submodule "facade"]
 	path = facade
 	url = https://git.overleaf.com/19588119bxbfwbkwmzvg
+[submodule "esem2019"]
+	path = esem2019
+	url = git@github.com:alexcu/esem2019.git
+[submodule "icse2020"]
+	path = icse2020
+	url = git@github.com:alexcu/icse2020.git
