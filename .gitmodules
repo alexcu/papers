@@ -4,7 +4,6 @@
 [submodule "phd-thesis"]
 	path = phd-thesis
 	url = git@github.com:alexcu/phd-thesis.git
-
 [submodule "ml-api-inconsistencies"]
 	path = ml-api-inconsistencies
 	url = git@github.com:alexcu/ml-api-inconsistencies
@@ -14,6 +13,9 @@
 [submodule "esem2019"]
 	path = esem2019
 	url = git@github.com:alexcu/esem2019.git
-[submodule "icse2020"]
-	path = icse2020
-	url = git@github.com:alexcu/icse2020.git
+[submodule "icse2020b"]
+	path = icse2020b
+	url = git@github.com:alexcu/icse2020b.git
+[submodule "icse2020a"]
+	path = icse2020a
+	url = git@github.com:alexcu/icse2020a.git
