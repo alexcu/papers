@@ -5,11 +5,8 @@
 	path = phd-thesis
 	url = git@github.com:alexcu/phd-thesis.git
 [submodule "ml-api-inconsistencies"]
-	path = ml-api-inconsistencies
+	path = misc/ml-api-inconsistencies
 	url = git@github.com:alexcu/ml-api-inconsistencies
-[submodule "facade"]
-	path = facade
-	url = https://git.overleaf.com/19588119bxbfwbkwmzvg
 [submodule "esem2019"]
 	path = esem2019
 	url = git@github.com:alexcu/esem2019.git
@@ -19,3 +16,6 @@
 [submodule "icse2020a"]
 	path = icse2020a
 	url = git@github.com:alexcu/icse2020a.git
+[submodule "icwe2019"]
+	path = icwe2019
+	url = git@github.com:alexcu/icwe2019.git
