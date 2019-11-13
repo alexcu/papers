@@ -13,12 +13,18 @@
 [submodule "esem2019"]
 	path = esem2019
 	url = git@github.com:alexcu/esem2019.git
-[submodule "icse2020b"]
-	path = icse2020b
-	url = git@github.com:alexcu/icse2020b.git
-[submodule "icse2020a"]
-	path = icse2020a
-	url = git@github.com:alexcu/icse2020a.git
 [submodule "icwe2019"]
 	path = icwe2019
 	url = git@github.com:alexcu/icwe2019.git
+[submodule "ieee-software2020"]
+	path = ieee-software2020
+	url = git@github.com:alexcu/ieee-software2020.git
+[submodule "icse-demo2020"]
+	path = icse-demo2020
+	url = git@github.com:alexcu/icse-demo2020.git
+[submodule "icse2020"]
+	path = icse2020
+	url = git@github.com:alexcu/icse2020.git
+[submodule "icpc2020"]
+	path = icpc2020
+	url = git@github.com:alexcu/icpc2020.git
