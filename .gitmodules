@@ -22,9 +22,9 @@
 [submodule "icse-demo2020"]
 	path = icse-demo2020
 	url = git@github.com:alexcu/icse-demo2020.git
-[submodule "icse2020"]
-	path = icse2020
-	url = git@github.com:alexcu/icse2020.git
 [submodule "icpc2020"]
 	path = icpc2020
 	url = git@github.com:alexcu/icpc2020.git
+[submodule "icse2020"]
+	path = icse2020
+	url = git@github.com:alexcu/icse2020.git
