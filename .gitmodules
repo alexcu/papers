@@ -1,30 +1,51 @@
 [submodule "honours-thesis"]
-	path = honours-thesis
+	path = theses/honours-thesis
 	url = git@github.com:alexcu/honours-thesis.git
 [submodule "phd-thesis"]
-	path = phd-thesis
+	path = theses/phd-thesis
 	url = git@github.com:alexcu/phd-thesis.git
 [submodule "icsme2019"]
-        path = icsme2019
+	path = published/icsme2019
         url = git@github.com:alexcu/icsme2019.git
 [submodule "ml-api-inconsistencies"]
-	path = misc/ml-api-inconsistencies
+	path = abandoned/ml-api-inconsistencies
 	url = git@github.com:alexcu/ml-api-inconsistencies
 [submodule "esem2019"]
-	path = esem2019
+	path = published/esem2019
 	url = git@github.com:alexcu/esem2019.git
 [submodule "icwe2019"]
-	path = icwe2019
+	path = published/icwe2019
 	url = git@github.com:alexcu/icwe2019.git
 [submodule "ieee-software2020"]
-	path = ieee-software2020
+	path = abandoned/ieee-software2020
 	url = git@github.com:alexcu/ieee-software2020.git
 [submodule "icse-demo2020"]
-	path = icse-demo2020
+	path = rejected/icse-demo2020
 	url = git@github.com:alexcu/icse-demo2020.git
 [submodule "icpc2020"]
-	path = icpc2020
+	path = abandoned/icpc2020
 	url = git@github.com:alexcu/icpc2020.git
 [submodule "icse2020"]
-	path = icse2020
+	path = published/icse2020
 	url = git@github.com:alexcu/icse2020.git
+[submodule "abandoned/icse2020b"]
+	path = abandoned/icse2020b
+	url = git@github.com:alexcu/icse2020b.git
+[submodule "abandoned/ozchi2018"]
+	path = abandoned/ozchi2018
+	url = git@github.com:alexcu/ozchi2018.git
+[submodule "inprogress/semotion2021"]
+	path = inprogress/semotion2021
+	url = git@github.com:alexcu/semotion2021.git
+[submodule "inprogress/tse2020"]
+	path = inprogress/tse2020
+	url = git@github.com:alexcu/tse2020.git
+[submodule "published/fse2020"]
+	path = published/fse2020
+	url = git@github.com:alexcu/fse2020.git
+[submodule "published/fse-demo2020"]
+	path = published/fse-demo2020
+	url = git@github.com:alexcu/fse-demo2020.git
+[submodule "abandoned/ease2018"]
+	path = abandoned/ease2018
+	url = git@github.com:alexcu/ease2018.git
