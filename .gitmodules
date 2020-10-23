@@ -49,3 +49,9 @@
 [submodule "abandoned/ease2018"]
 	path = abandoned/ease2018
 	url = git@github.com:alexcu/ease2018.git
+[submodule "abandoned/image-metamodel-development"]
+	path = abandoned/image-metamodel-development
+	url = git@github.com:alexcu/image-metamodel-development.git
+[submodule "abandoned/xai-and-ua"]
+	path = abandoned/xai-and-ua
+	url = git@github.com:alexcu/xai-and-ua.git
