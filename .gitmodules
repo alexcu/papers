@@ -38,7 +38,7 @@
 	path = inprogress/semotion2021
 	url = git@github.com:alexcu/semotion2021.git
 [submodule "inprogress/tse2020"]
-	path = inprogress/tse2020
+	path = published/tse2020
 	url = git@github.com:alexcu/tse2020.git
 [submodule "published/fse2020"]
 	path = published/fse2020
@@ -55,3 +55,9 @@
 [submodule "abandoned/xai-and-ua"]
 	path = abandoned/xai-and-ua
 	url = git@github.com:alexcu/xai-and-ua.git
+[submodule "inprogress/caise2021"]
+	path = inprogress/caise2021
+	url = git@github.com:alexcu/caise2021.git
+[submodule "inprogress/jss2021"]
+	path = inprogress/jss2021
+	url = git@github.com:alexcu/jss2021.git
